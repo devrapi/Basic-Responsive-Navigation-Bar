@@ -1,3 +1,3 @@
-#Simple Basic Responsive Navigation Bar
+**Simple Basic Responsive Navigation Bar**
 
-Responsive Navigation Bar for beginners
+Responsive Navigation Bar for Beginners
